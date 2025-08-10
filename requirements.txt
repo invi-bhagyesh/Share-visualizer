@@ -1,0 +1,6 @@
+datasets>=2.14.0
+sentence-transformers>=2.2.2
+umap-learn>=0.5.3
+pandas>=2.0.0
+torch>=2.0.0
+transformers>=4.30.0
