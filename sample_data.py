@@ -6,7 +6,7 @@ import umap
 import os
 
 print("Step 1: Loading dataset...")
-dataset = load_dataset("shachardon/ShareLM", split='train')
+dataset = load_dataset("shareai/ShareLM", split='train')
 df = dataset.to_pandas()
 
 def process_conversation(row):
